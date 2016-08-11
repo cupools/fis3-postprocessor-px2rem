@@ -10,8 +10,7 @@ var defaultOptions = {
 }
 
 module.exports = function(content, file, conf) {
-    var options = Object.assign({}, defaultOptions, file.px2rem || {})
+    var options = Object.assign({}, defaultOptions, conf)
     var px2rem = new Px2rem(options)
-
     return px2rem.generateRem(content)
 }
