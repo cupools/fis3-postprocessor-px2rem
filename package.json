@@ -1,0 +1,22 @@
+{
+  "name": "fis3-postprocessor-px2rem",
+  "version": "0.0.1",
+  "description": "According to one stylesheet, generate rem version and @1x, @2x and @3x stylesheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.ucweb.local:lyh106415/fis3-postprocessor-px2rem.git"
+  },
+  "keywords": [
+    "fis3",
+    "px2rem"
+  ],
+  "author": "liyh <lyh106415@alibaba-inc.com>",
+  "license": "MIT",
+  "dependencies": {
+    "px2rem": "^0.5.0"
+  }
+}
