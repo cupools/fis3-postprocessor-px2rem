@@ -12,9 +12,10 @@
   },
   "keywords": [
     "fis3",
-    "px2rem"
+    "px2rem",
+    "rem"
   ],
-  "author": "liyh <cupools@gmail.com>",
+  "author": "cupools <cupools@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "px2rem": "^0.5.0"
