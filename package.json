@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.ucweb.local:lyh106415/fis3-postprocessor-px2rem.git"
+    "url": "git@github.com:cupools/fis3-postprocessor-px2rem.git"
   },
   "keywords": [
     "fis3",
     "px2rem"
   ],
-  "author": "liyh <lyh106415@alibaba-inc.com>",
+  "author": "liyh <cupools@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "px2rem": "^0.5.0"
